@@ -4,8 +4,6 @@ I am a **Full-Stack JavaScript Developer** specializing in the **MERN stack**, f
 
 I work across the entire stack—designing **RESTful APIs** using **Node.js and Express**, and developing **modern, responsive user interfaces** with **React and Vite**. My backend experience includes authentication and authorization flows, middleware design, secure API development, environment-based configuration, and database integration. On the frontend, I emphasize component-driven design, reusable logic, form validation, animations, and seamless API integration to deliver reliable user experiences.
 
-Alongside application development, I am actively strengthening my foundations in **JavaScript internals, data structures, and problem-solving**, while consistently applying best practices in **Git workflows, project structuring, environment management, and deployment pipelines**. I am comfortable working in **Linux-based development environments** and follow modern conventions such as maintaining **`main` as the production branch**.
-
 My current objective is to **join a startup**, where I can contribute meaningfully across the stack, gain real-world engineering exposure, and grow rapidly. Over the next few years, I aim to build a strong systems foundation and later transition into a larger organization tackling deeper architectural and scalability challenges.
 
 I value **clarity, correctness, and long-term maintainability** in code, and I continuously work on improving both my technical depth and professional engineering practices.
