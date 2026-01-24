@@ -63,8 +63,7 @@ I value **clarity, correctness, and long-term maintainability** in code, and I c
 
 ![](https://nirzak-streak-stats.vercel.app/?user=faizvk&theme=dark&hide_border=false)
 
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=faizvk&theme=dark&hide_border=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=faizvk&layout=compact&langs_count=10&cache_seconds=1800
-))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizvk&layout=compact&langs_count=10&cache_seconds=1800)
 
 ---
 
