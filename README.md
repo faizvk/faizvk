@@ -65,7 +65,3 @@ I value **clarity, correctness, and long-term maintainability** in code, and I c
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizvk&&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800)
 
----
-
-
-[![](https://visitcount.itsvg.in/api?id=faizvk&icon=0&color=0)](https://visitcount.itsvg.in)
