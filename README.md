@@ -69,7 +69,7 @@ I value **clarity, correctness, and long-term maintainability** in code, and I c
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=faizvk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=faizvk&theme=radical&margin-w=4&v=2)
 
 ---
 
