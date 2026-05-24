@@ -85,7 +85,7 @@ I value **clarity, correctness, and long-term maintainability** in code, and I'm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Faiz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=faizvk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C5F542&icon_color=C5F542&text_color=FFFFFF&cache_seconds=86400" />
+  <img alt="Faiz's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizvk&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -93,5 +93,10 @@ I value **clarity, correctness, and long-term maintainability** in code, and I'm
 </p>
 
 <p align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizvk&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=C5F542&text_color=FFFFFF&cache_seconds=86400" />
+  <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizvk&theme=github_dark" />
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=faizvk&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizvk&theme=github_dark&utcOffset=5.5" />
 </p>
