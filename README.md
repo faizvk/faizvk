@@ -87,3 +87,8 @@ I value **clarity, correctness, and long-term maintainability** in code, and I'm
 <p align="center">
   <img alt="Faiz's streak" src="https://streak-stats.demolab.com/?user=faizvk&hide_border=true&background=0D1117&ring=C5F542&fire=C5F542&currStreakLabel=C5F542&stroke=C5F542&dates=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
+
+<p align="center">
+  <img alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizvk&theme=github_dark" />
+  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faizvk&theme=github_dark" />
+</p>
