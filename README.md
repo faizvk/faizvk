@@ -85,18 +85,9 @@ I value **clarity, correctness, and long-term maintainability** in code, and I'm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Faiz's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizvk&theme=github_dark" />
-</p>
-
-<p align="center">
   <img alt="Faiz's streak" src="https://streak-stats.demolab.com/?user=faizvk&hide_border=true&background=0D1117&ring=C5F542&fire=C5F542&currStreakLabel=C5F542&stroke=C5F542&dates=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 <p align="center">
-  <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizvk&theme=github_dark" />
-  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=faizvk&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizvk&theme=github_dark&utcOffset=5.5" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizvk&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=C5F542&text_color=FFFFFF&cache_seconds=86400" />
 </p>
